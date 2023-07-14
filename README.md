@@ -1,101 +1,44 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-<hr>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Muhammad Zen Wawazer</h1>
 <h3 align="center">UI/UX | Technical Content Writer | Frontend Dev</h3>
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://dev.to/anhello">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
-  </a>
-
-  <a href="https://www.linkedin.com/in/muhammad-zen-wawazer-131b8582/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackshare.io/anhello">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://gitlab.com/AnhellO">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://medium.com/@ajzavala">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
-  </a>
-</p>
+<br>
+<a href="https://www.linkedin.com/in/muhammad-zen-wawazer-131b8582/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.instagram.com/zenwawazer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="mailto:wawazer@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.strava.com/athletes/71437554"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="strava" /></a>&nbsp;
+<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
 
 
 <p align="center">
   <em>
-    This is ME, Muhammad Zen Wawazer, a <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Amritsar college of engineering & technology</b>, amritsar</a>. <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    This is ME, Muhammad Zen Wawazer, an accomplished developer interested in web mobile design and combining the art of design with the art of programming! 
+familiar with designing and implementing user friendly applications using Html Css Reactjs. Ability to create a full web pages design using Figma then transform it into real website
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
 ✔ I’m currently learning **ReactJS** & **NodeJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
-✔ I use to write coad on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
- 
+<br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages and tools I'm learning until now***
 <p align="left">
   
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-  <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-  <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
-"> </code>
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-bootstrap.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-javascript-logo.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-react.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-nodejs.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-flutter.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-git.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-php-logo.svg" width="50px"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg" height="40px"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" height="40px">
+
+
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
@@ -136,15 +79,9 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <hr>
 
-#### Want to Build Your Own?
+#### Portofolio?
 
-Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called **Profile Readmes**. For it to work, do the following:
-
-1. Create a *special* GitHub repository with your username as repository name. My username is `Akash-chowrasia` so my profile readme repository has the name `Akash-chowrasia`.
-1. Add a `README.md` to this repository.
-1. Put some cool content about yourself (or anything you want) into `README.md`.
-
-And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. 
+coming soon !
 
 -----
 Credits: [Akash chowrasia](https://github.com/Akash-chowrasia)
