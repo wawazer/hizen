@@ -20,7 +20,7 @@
 familiar with designing and implementing user friendly applications using Html Css Reactjs. Ability to create a full web pages design using Figma then transform it into real website
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
 
 
