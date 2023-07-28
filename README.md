@@ -24,8 +24,6 @@ familiar with designing and implementing user friendly applications using Html C
 </p>
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
-
 ✔ Pronouns: ***He/His*** 😉 <br>
 ✔ I’m currently learning **ReactJS** & **NodeJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
