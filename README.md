@@ -84,6 +84,4 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 coming soon !
 
 -----
-Credits: [Akash chowrasia](https://github.com/Akash-chowrasia)
-
 Last Edited on: 22/02/2021
