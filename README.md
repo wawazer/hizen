@@ -38,9 +38,8 @@ familiar with designing and implementing user friendly applications using Html C
 
 
   <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wawazer&show_icons=true&locale=en&layout=compact" alt="wawazer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wawazer&show_icons=true&locale=en" alt="wawazer" width="410" /></p>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wawazer&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="wawazer" />
+<img src="https://github-readme-stats.vercel.app/api?username=wawazer&theme=tokyonight&show_icons=true&locale=en" alt="wawazer" width="410" /></div>
 
 <hr>
 
